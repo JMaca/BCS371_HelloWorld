@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BCS371_helloWorld</string>
+    <string name="openingText">Hello World! by John M.</string>
+    <string name="buttonText">Click-Me!</string>
+</resources>
